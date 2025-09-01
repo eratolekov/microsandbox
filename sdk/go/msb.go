@@ -1,4 +1,4 @@
-// Package msb provides a Go SDK for interacting with Microsandbox environments.
+// package go provides a Go SDK for interacting with Microsandbox environments.
 //
 // This SDK provides thread-safe access to running microsandbox environments for code execution,
 // command running, and resource monitoring, without imposing any particular concurrency paradigm.
@@ -36,7 +36,7 @@
 //		log.Fatal(err)
 //	}
 //	fmt.Printf("CPU: %.2f%%, Memory: %d MiB\n", metrics.CPU, metrics.MemoryMiB)
-package msb
+package go
 
 import (
 	"context"

@@ -1,4 +1,4 @@
-package msb
+package go
 
 import "errors"
 

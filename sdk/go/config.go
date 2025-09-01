@@ -1,4 +1,4 @@
-package msb
+package go
 
 type ReqIdProducer func() string
 
