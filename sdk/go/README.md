@@ -6,7 +6,7 @@ This SDK provides thread-safe access to running microsandbox environments for co
 ## Installation
 
 ```bash
-go get github.com/microsandbox/microsandbox/sdk/go
+go get github.com/eratolekov/microsandbox/sdk/go@v1.0.1
 ```
 
 ## Quick Start
@@ -20,7 +20,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/microsandbox/microsandbox/sdk/go"
+    "github.com/eratolekov/microsandbox/sdk/go"
 )
 
 func main() {

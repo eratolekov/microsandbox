@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	msb "github.com/keithang/microsandbox/sdk/go"
+	msb "github.com/eratolekov/microsandbox/sdk/go"
 )
 
 // basicMetricsExample demonstrates how to get individual metrics for a sandbox.

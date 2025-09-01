@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	msb "github.com/keithang/microsandbox/sdk/go"
+	msb "github.com/eratolekov/microsandbox/sdk/go"
 )
 
 // contextManagerEquivalentExample demonstrates the Go equivalent of Python's context manager pattern.

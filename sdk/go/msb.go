@@ -36,7 +36,7 @@
 //		log.Fatal(err)
 //	}
 //	fmt.Printf("CPU: %.2f%%, Memory: %d MiB\n", metrics.CPU, metrics.MemoryMiB)
-package go
+package msb
 
 import (
 	"context"

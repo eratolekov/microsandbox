@@ -1,4 +1,4 @@
-package go
+package msb
 
 type state = uint32
 

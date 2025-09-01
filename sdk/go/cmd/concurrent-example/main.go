@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	msb "github.com/keithang/microsandbox/sdk/go"
+	msb "github.com/eratolekov/microsandbox/sdk/go"
 )
 
 // sequentialExample demonstrates basic sequential usage.
